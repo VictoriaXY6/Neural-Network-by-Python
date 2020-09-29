@@ -9,7 +9,7 @@ python3 Neural_Network.py
 ```
 
 ## Demo
-
+<img src="example.gif" width="900" height="500">
 
 ## Credit
 @YihuiAndre
